@@ -1,0 +1,30 @@
+
+Deploying the NodeJs Application:
+  1. Ensure You have the cmd to start the nodejs server ready
+    CMD ---> npm start or node server.js
+  2. Deploy the the server with configuration on render.com
+    1. Connect to Repo
+    2. yarn to npm install
+    3. npm start or node server.js
+  3. Deploy
+
+Documentation in Postman
+
+Connection to MongoDB(local & atlas):
+
+  1. Database connection
+    mongodb
+  Mongo URI ---> connect string with info on how to connect
+
+  using local without creds
+    CRUD Operations with DB
+
+Task:
+  1. NodeJs File System
+    reading folder ---> readdirSync()
+  2. Hall Booking API
+
+Next Session:
+Cloud DB
+front-end & backend connectivity
+Student Mentor Application --- next week ( if You finish other two You can try this)
