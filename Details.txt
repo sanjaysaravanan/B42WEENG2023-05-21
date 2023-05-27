@@ -10,7 +10,7 @@ Deploying the NodeJs Application:
 
 Documentation in Postman
 
-Connection to MongoDB(local & atlas):
+Connection to MongoDB(local):
 
   1. Database connection
     mongodb
